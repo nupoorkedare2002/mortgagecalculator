@@ -2,11 +2,6 @@
 
 ![Thumbnail](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/unvipm44lichvl8v0mcn.png)
 
-## Table of Contents
-
-* [Setup](#Setup)
-* [Material UI Theme](#MUI-Theme)
-
   
 
 ## Setup
