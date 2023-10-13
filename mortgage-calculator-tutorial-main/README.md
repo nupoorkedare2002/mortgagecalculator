@@ -6,10 +6,8 @@
 
 * [Setup](#Setup)
 * [Material UI Theme](#MUI-Theme)
-* [Folder Structure](#Folder-Structure)
-* [Navbar](#Navbar)
-* [MUI Grid System](#MUI-Grid-System)
-* [Slider Component](#Slider-Component)
+
+  
 
 ## Setup
 
@@ -25,17 +23,7 @@ npm install --save chart.js react-chartjs-2
 
 We will be using the dark theme of material UI. For that we need to create a file named `theme.js` in the `src` folder and add the following code
 
-#### theme.js
 
-```js
-import { createTheme } from '@mui/material/styles';
-
-export const theme = createTheme({
-  palette: {
-    mode: 'dark',
-  },
-})
-```
 
 **Note:** If you don't pass the `CssBaseline` component we will not be able to see the MUI dark theme.
 
